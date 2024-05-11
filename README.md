@@ -8,3 +8,5 @@ $ npm start
 ````
 
 Head over to https://vitejs.dev/ to learn more about using vite
+
+Note: If you wish to alter the URL of your personal database, just replace it with "databaseURL:". 
